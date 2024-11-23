@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b7479aa1-dcb1-4c9f-a202-64018a010c66" alt="Assistente Virtual de Auditoria Energética - Logo" width="200"/>
-</p>
+
 
 # EnergyAPI
 
